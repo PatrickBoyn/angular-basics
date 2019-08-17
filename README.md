@@ -1,3 +1,6 @@
+# Please look at angular-course-project-current for the current version of this
+I'm still somewhat new to pulling and pushing and somehow wound up with 3 versions of the same project.  the one with -current is the correct version. This is for myself or anyoen else who happens to be confused by the myriad of the same project at different levels.
+
 # MyFirstApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
